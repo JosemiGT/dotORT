@@ -1,1 +1,6 @@
 Simplex/obj/
+/obj
+/Simplex/bin/Debug/netstandard2.0
+/.vs/dotORT
+/TestdotORT/bin/Debug/netcoreapp3.1
+/TestdotORT/obj

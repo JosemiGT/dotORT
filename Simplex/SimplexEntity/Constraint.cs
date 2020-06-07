@@ -7,8 +7,8 @@ namespace dotORT.Simplex.SimplexEntity
         
         public string Operator { get; set; }
 
-        public Constraint (string _name, IDictionary<string, double> _vectorBody, string _operator, double _constant )
-            : base(_name, _vectorBody, _constant)
+        public Constraint (IDictionary<string, double> _vectorBody, string _operator, double _constant )
+            : base( _vectorBody, _constant)
             {
                 this.Operator = _operator;
             }
