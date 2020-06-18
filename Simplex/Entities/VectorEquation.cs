@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dotORT.Simplex.SimplexEntity
+namespace dotORT.Simplex.Entities
 {
     /// <summary>
     /// Vector Equation class. This class have a VectorBody = Constant format.

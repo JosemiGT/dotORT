@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using dotORT.Simplex.SimplexEntity;
-using Simplex.SimplexEntity;
+using dotORT.Simplex.Entities;
 
-namespace dotORT.Simplex.SimplexService
+namespace dotORT.Simplex.Services
 {
     public class VectorOperations
     {

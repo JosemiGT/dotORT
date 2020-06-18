@@ -1,5 +1,5 @@
-﻿using dotORT.Simplex.SimplexEntity;
-using dotORT.Simplex.SimplexService;
+﻿using dotORT.Simplex.Entities;
+using dotORT.Simplex.Services;
 using System;
 using System.Collections.Generic;
 using System.Text;
